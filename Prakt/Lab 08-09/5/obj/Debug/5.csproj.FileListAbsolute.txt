@@ -1,0 +1,11 @@
+C:\Users\Пользователь\source\repos\5\5\bin\Debug\5.dll
+C:\Users\Пользователь\source\repos\5\5\bin\Debug\5.pdb
+C:\Users\Пользователь\source\repos\5\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\5\5\obj\Debug\5.dll
+C:\Users\Пользователь\source\repos\5\5\obj\Debug\5.pdb
+C:\Users\Жанчик\Desktop\repos\5\5\bin\Debug\5.dll
+C:\Users\Жанчик\Desktop\repos\5\5\bin\Debug\5.pdb
+C:\Users\Жанчик\Desktop\repos\5\5\obj\Debug\5.csproj.AssemblyReference.cache
+C:\Users\Жанчик\Desktop\repos\5\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+C:\Users\Жанчик\Desktop\repos\5\5\obj\Debug\5.dll
+C:\Users\Жанчик\Desktop\repos\5\5\obj\Debug\5.pdb
